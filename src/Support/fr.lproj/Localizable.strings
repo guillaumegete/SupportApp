@@ -18,8 +18,8 @@
 "hours" = "heures";
 "day" = "jour";
 "days" = "jours";
-"Used" = "Utilisé";
-"Available" = "Disponible";
+"Used" = "Utilisés";
+"Available" = "Disponibles";
 "About Support" = "À propos de Support";
 "Help and Documentation" = "Aide et documentation";
 "Quit Support" = "Quitter Support";
@@ -50,10 +50,10 @@
 "OPEN_JAMF_CONNECT_MANUALLY_TEXT" = "Ouvrez Jamf Connect depuis la barre des menus pour changer votre mot de passe";
 "NETWORK_UNAVAILABLE" = "Réseau indisponible";
 "NETWORK_UNAVAILABLE_TEXT" = "Le réseau de votre organisation n'est pas disponible. Veuillez vérifier votre connexion et tentez une nouvelle fois.";
-"CLOSE" = "Ferme";
+"CLOSE" = "Fermer";
 "UPDATES_AVAILABLE" = "Mises à jour disponibles";
 "NO_UPDATES_AVAILABLE" = "Aucune mise à jour disponible";
 "UPDATE_NOW" = "Mettre à jour maintenant";
 "SYSTEM_SETTINGS" = "Réglages Système";
 "SYSTEM_PREFERENCES" = "Préférences Système";
-"YOUR_MAC_IS_UP_TO_DATE" = "Votre Mac est à jour";
+"YOUR_MAC_IS_UP_TO_DATE" = "Votre Mac est à jour !";
